@@ -18,13 +18,17 @@ This project is a simple travel booking application that allows users to:
 - Booking management
 
 ## 📂 Project Structure
+- /public
 - index.html
 - styles.css
-- /servlets
-- LoginServlet.java
-- BookingServlet.java
-- LogoutServlet.java
+- main.js
+- /data
+- bookings.json
+- products.json
 - README.md
+- index.js
+- package-lock.json
+- package.json
 
 ## 👨‍💻 Team Members
 - VG Sabareesh (23BCS140) – Backend & login system
