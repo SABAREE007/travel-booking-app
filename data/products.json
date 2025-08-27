@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Weekend in Goa",
+    "description": "Relax on beaches, try watersports, and enjoy seafood.",
+    "price": 120,
+    "duration": "3 days",
+    "image": "https://via.placeholder.com/400x200?text=Goa"
+  },
+  {
+    "id": 2,
+    "title": "Himalayan Trek",
+    "description": "Guided trek through scenic trails, camping included.",
+    "price": 350,
+    "duration": "7 days",
+    "image": "https://via.placeholder.com/400x200?text=Himalaya"
+  },
+  {
+    "id": 3,
+    "title": "Kerala Backwaters",
+    "description": "Houseboat trip with traditional food and village tours.",
+    "price": 200,
+    "duration": "4 days",
+    "image": "https://via.placeholder.com/400x200?text=Kerala"
+  }
+]
