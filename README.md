@@ -28,7 +28,9 @@ This project is a simple travel booking application that allows users to:
 
 ## 👨‍💻 Team Members
 - VG Sabareesh (23BCS140) – Backend & login system
-- [Other team members with their roles]
+- Sailesh S (23BCS142) → Backend Developer & Integration  
+- Sanjay Raj R K (23BCS147) → Frontend Developer  
+- Sanjay Sasikumar S (23BCS148) → Version Control Specialist  
 
 ## 📸 Screenshots
 (Add screenshots of your UI here)
