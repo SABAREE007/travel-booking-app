@@ -8,14 +8,10 @@ This project is a simple travel booking application that allows users to:
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java Servlets (Java EE)
+- **Backend:** Javascript
 - **Database:** MySQL
 
-## 🚀 Features
-- User authentication (login/logout)
-- Travel package browsing
-- Session & cookie handling
-- Booking management
+
 
 ## 📂 Project Structure
 - /public
